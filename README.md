@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Laravel & Vue.js
+- 🔭 I’m currently working on Laravel & Next.js
 - 🌱 I’m currently learning AWS, problem-solving
 - 👯 I’m looking to collaborate on problem-solving
 - 📫 How to reach me: musa.fci@gmail.com
