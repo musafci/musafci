@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 <!-- 💬 Ask me about ... -->
 <!-- 😄 Pronouns: ... -->
 <!-- ⚡ Fun fact: ... -->
+
+
+## 📊 GitHub Stats:
+<!--
+![](https://github-readme-stats.vercel.app/api?username=musafci&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=musafci&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=musafci&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
